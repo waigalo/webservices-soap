@@ -1,6 +1,9 @@
-<h3> My webservices SOAP </h3>
+<h3> My webservices SOAP 24/12/23</h3>
 
-<img src='first.png'></img>
-<img src='second.png'></img>
-<img src='third.png'></img>
-<img src='fourth.png'></img>
+<img src='first.png'/>
+<hr/>
+<img src='second.png'/>
+<hr/>
+<img src='third.png'/>
+<hr/>
+<img src='fourth.png'/>
